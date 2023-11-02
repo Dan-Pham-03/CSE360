@@ -1,1 +1,1 @@
-# CSE360
+# CSE360_InClassAct
